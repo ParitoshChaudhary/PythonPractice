@@ -34,7 +34,7 @@ def check_ten_sum(n1,n2):
     # Code Here
     result = n1 + n2
     if result == 10:
-        return True
+        return Trueg
     else:
         return result
 
